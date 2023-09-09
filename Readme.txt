@@ -1,0 +1,2 @@
+-> Extract the zip file 
+-> Open .ipynb file and then execute the code step by step.
